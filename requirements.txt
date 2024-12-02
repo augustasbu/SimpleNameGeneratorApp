@@ -1,5 +1,3 @@
 torch
-torch.nn
 streamlit
-torch.utils.data
 pandas
